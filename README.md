@@ -1,0 +1,1 @@
+# utau-voicebank-rs
